@@ -1,0 +1,46 @@
+{
+    "resources": [
+      {
+        "title": "Javascript",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "imageUrl": "https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"
+      },
+      {
+        "title": "ReactJS",
+        "link": "https://reactjs.org/docs/getting-started.html",
+        "imageUrl": "http://localhost:5173/react.png"
+      },
+      {
+        "title": "Mongodb",
+        "link": "https://www.mongodb.com",
+        "imageUrl": "http://localhost:5173/ext-553.png"
+      },
+      {
+        "title": "Linux",
+        "link": "https://docs.kernel.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png?20170610200026"
+      },
+      {
+        "title": "Flutter",
+        "link": "https://www.flutter.dev",
+        "imageUrl": "https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
+      },
+      {
+        "title": "Dart",
+        "link": "https://dart.dev",
+        "imageUrl": "https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg"
+      },
+      {
+        "title": "Powerbi",
+        "link": "https://dart.dev",
+        "imageUrl": "https://i.pinimg.com/736x/90/15/64/901564e70a484663c13c2bfd98133a86.jpg"
+      },
+      {
+        "title": "Platzi logros",
+        "link": "https://platzi.com/p/cesarbustos338/",
+        "imageUrl": "https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png"
+      }
+      
+    ]
+  }
+  
